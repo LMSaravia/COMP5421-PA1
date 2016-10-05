@@ -1,0 +1,2 @@
+Uses preprocessor definition _CRT_SECURE_NO_WARNINGS
+
